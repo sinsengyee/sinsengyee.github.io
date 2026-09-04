@@ -1,0 +1,34 @@
+---
+title: "Seng Yee Sin"
+image: /media/profile.jpg          # Your photo. Square images look best. Replace the file; keep the name.
+image-alt: "Seng Yee Sin"       # What a screen reader says for the photo. Use your name here too.
+about:
+  template: jolla            # Centered: photo, name, bio, buttons. Three things to try:
+                             #   - template: trestles   (photo on the left, bio on the right)
+                             #   - template: solana     (bio on the left, photo on the right)
+                             #   - image-shape: rectangle   (or rounded; on its own line at this indent)
+                             # All home-page options, with pictures:
+                             # https://quarto.org/docs/websites/website-about.html
+  links:                     # The buttons under the bio. Try adding github, linkedin,
+    - icon: envelope         # or twitter-x. Every icon name: https://icons.getbootstrap.com/
+      text: Email
+      href: mailto:ss25bq@fsu.edu
+    - icon: file-earmark-pdf
+      text: CV
+      href: /file/cv.pdf
+    #- icon: google
+  #   text: Google Scholar
+  #    href: https://scholar.google.com/citations?user=XXXXXXXXXXXX
+    - icon: person-vcard     # There is no ORCID icon in the set; use an ID card.
+      text: ORCID
+      href: https://orcid.org/0009-0004-5400-4688
+---
+
+```{=html}
+<!-- Everything below the front matter is the bio. Keep this short; two or three short paragraphs
+     is plenty. Say who you are, what you study, and what you teach. Maybe add one sentence on your dissertation. -->
+```
+
+I am a Ph.D. student in the Department of Political Science at Florida State University (FSU). I study Comparative politics, historical political economy and political violence, with a region focus in Malaysia and Indonesia. I focus on how historical legacy shapes contemporary violence, inter-group relation and other governance outcome. 
+
+Before starting my Ph.D. at FSU, I earned a B.A. and M.A. in political science from National Taiwan University (NTU) in 2024 and 2022.
