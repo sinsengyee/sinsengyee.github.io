@@ -1,18 +1,40 @@
 ---
 title: "Teaching"
+description-meta: "Teaching experience of Seng Yee Sin at Florida State University."
 ---
 
-<!-- One line per course. To link a PDF of a syllabus, put the PDF in this folder and
-     write [Syllabus](pos2041-syllabus.pdf); Quarto copies linked files into docs/. -->
+<!-- I teach courses in American politics and research methods. -->
 
-I teach courses in American politics and research methods.
+<!--## Instructor of Record
 
-## Instructor of Record
+::: {.course}
+::: {.course-title}
+POS 2041 · American National Government
+:::
+::: {.course-meta}
+Florida State University · Fall 2026
+:::
+:::
 
-POS 2041: American National Government, Florida State University, Fall 2026.
+-->
 
 ## Teaching Assistant
 
-POS 5736: Research Design (graduate), Florida State University, 2025–2026.
+::: {.course}
+::: {.course-title}
+CPO 3055 · Authoritarian Regimes
+:::
+::: {.course-meta}
+Undergraduate course · Florida State University · 2025–2026
+:::
+:::
 
-POS 2041: American National Government, Florida State University, 2024–2025.
+::: {.course}
+::: {.course-title}
+CPO 2002 · Introduction to Comparative Government and Politics
+:::
+::: {.course-meta}
+Undergraduate course · Florida State University · 2025–2026
+:::
+:::
+

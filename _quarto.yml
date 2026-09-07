@@ -1,37 +1,44 @@
-# The whole site is configured in this one file. The pages are the .qmd files
-# next to it; the rendered site goes in docs/.
-# Everything this file accepts: https://quarto.org/docs/reference/projects/websites.html
-
 project:
   type: website
-  output-dir: docs        # GitHub Pages can serve a site straight from docs/.
+  output-dir: docs
 
 website:
-  title: "Seng Yee Sin"      # Shown at the left end of the navbar and in the browser tab.
+  title: "Seng Yee Sin"
+  description: "PhD student in Political Science at Florida State University studying historical political economy, political violence, and Southeast Asia."
   navbar:
-    left:
-      - text: Home
+    pinned: false
+    title: "Seng Yee Sin"
+    right:
+      - text: "Home"
         href: index.qmd
-      - research.qmd      # Link text comes from the page's own title.
-      - teaching.qmd
-      - text: CV
-        href: /file/cv.pdf      # The CV is a PDF, not a page. Replace the file; keep the name.
-  # Three additions you will probably want, in the order people usually want them:
-  #   - Another page (talks, software, data). Create talks.qmd with a title: line at
-  #     the top, then add "- talks.qmd" to the navbar list above. A blog is one step
-  #     more, a page that lists posts: https://quarto.org/docs/websites/website-blog.html
-  #   - Link previews. When someone shares your site on Bluesky or in Slack, show a
-  #     card with your name and photo instead of a bare URL: add
-  #     "site-url: https://USERNAME.github.io" and "open-graph: true" at this indent.
-  #     (site-url also gives search engines a sitemap.)
-  #   - Visitor counts, if you want them: create a free Google Analytics property,
-  #     then add its ID here as google-analytics: "G-XXXXXXXXXX", at this indent.
-  # More additions like these: https://quarto.org/docs/websites/website-tools.html
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: /file/cv.pdf
+  page-footer:
+    border: false
+    left: "© 2026 Seng Yee Sin"
+    right:
+      - icon: envelope
+        href: mailto:ss25bq@fsu.edu
+        aria-label: Email
+      - icon: person-vcard
+        href: https://orcid.org/0009-0004-5400-4688
+        aria-label: ORCID
+  open-graph: true
 
 format:
   html:
-    theme: litera          # Quarto's default look. Try flatly (dark navbar), litera (serif
-                          # text), or sandstone. Change the word, re-render. All 25 themes,
-                          # with pictures: https://quarto.org/docs/output-formats/html-themes.html
-    css: styles.css       # Extra styling on top of the theme. The file is empty; your own
-                          # CSS rules go there if a theme setting ever isn't enough.
+    theme: litera
+    css: styles.css
+    toc: false
+    section-divs: false
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 900px
+      sidebar-width: 0px
+      margin-width: 0px

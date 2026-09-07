@@ -1,27 +1,95 @@
 ---
 title: "Research"
+description-meta: "Research by Seng Yee Sin on historical legacies, political violence, and intergroup relations."
 ---
 
-<!-- One paragraph per paper, newest (top) to oldest (bottom). Probably use a standard APSA style. Include a DOI and hyperlink for all published papers. If you have polished working papers, include links to those as well. -->
+My research examines how historical institution legacy shapes contemporary violence and inter-group violence. A complete list is on my [CV](/media/cv.pdf).
 
-My research examines how historical legacy shapes contemporary violence and inter-group violence. A complete list is on my [CV](/media/cv.pdf).
+## Work in Progress
 
-## Peer-Reviewed Articles
+“Colonial Minority Power Distortion and Post-Colonial Violence in Indonesia”
 
-Your Name and Coauthor Name. 2026. "Title of the Article." *Journal of Politics* 88 (2): 431–44. [doi: 10.1086/000000](https://doi.org/10.1086/000000)
+“British Malaya Counterinsurgency Legacy and Post-Authoritarian Consolidation”
 
-Coauthor Name and Your Name. 2025. "Another Title." *Political Analysis* 33 (1): 1–18. [doi: 10.1017/pan.0000.00](https://doi.org/10.1017/pan.0000.00)
+“How Chinese FDI Shapes Ethnic Dynamics in Southeast Asia” with [Hanzhang Liu](https://hanzhang-liu.org)
+
+“Marketing Boards and Agricultural Distortions in Developing Countries” with [Jheng, Shao-Yu](https://sites.google.com/view/jheng-shao-yu) 
+
+“Ethnic Violence and Legitimacy in Autocratic Regime, Malaysia 1969 Ethnic Conflict” with [Hilary Izatt](https://www.binghamton.edu/political-science/people/profile.html?id=hizatt)
+
+
+
+
+<!--## Peer-Reviewed Articles
+
+::: {.publication}
+::: {.publication-title}
+Your Name and Coauthor Name. 2026. “Title of the Article.”
+:::
+::: {.publication-meta}
+*Journal of Politics* 88 (2): 431–44.
+:::
+::: {.publication-links}
+[DOI](https://doi.org/10.1086/000000)
+:::
+:::
+
+::: {.publication}
+::: {.publication-title}
+Coauthor Name and Your Name. 2025. “Another Title.”
+:::
+::: {.publication-meta}
+*Political Analysis* 33 (1): 1–18.
+:::
+::: {.publication-links}
+[DOI](https://doi.org/10.1017/pan.0000.00)
+:::
+:::
 
 ## Book Chapters
 
-Your Name. Forthcoming. "A Chapter Title." In *An Edited Volume*, ed. Editor Name. Cambridge: Cambridge University Press.
+::: {.publication}
+::: {.publication-title}
+Your Name. Forthcoming. “A Chapter Title.”
+:::
+::: {.publication-meta}
+In *An Edited Volume*, edited by Editor Name. Cambridge: Cambridge University Press.
+:::
+:::
 
 ## Working Papers
 
-"A Paper With a Revise and Resubmit." Revise and resubmit, *Political Behavior*. [PDF](https://example.com/papers/paper-title.pdf)
+::: {.publication}
+::: {.publication-title}
+“A Paper With a Revise and Resubmit.”
+:::
+::: {.publication-meta}
+Revise and resubmit, *Political Behavior*.
+:::
+::: {.publication-links}
+[PDF](https://example.com/papers/paper-title.pdf)
+:::
+:::
 
-"A Paper Under Review." Under review. [Preprint](https://doi.org/10.31235/osf.io/00000)
+::: {.publication}
+::: {.publication-title}
+“A Paper Under Review.”
+:::
+::: {.publication-meta}
+Under review.
+:::
+::: {.publication-links}
+[Preprint](https://doi.org/10.31235/osf.io/00000)
+:::
+:::
 
 ## Early Projects
 
-"A Paper Being Written." 
+::: {.publication}
+::: {.publication-title}
+“A Paper Being Written.”
+:::
+:::
+-->
+
+

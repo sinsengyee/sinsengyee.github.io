@@ -1,34 +1,36 @@
 ---
-title: "Seng Yee Sin"
-image: /media/profile.jpg          # Your photo. Square images look best. Replace the file; keep the name.
-image-alt: "Seng Yee Sin"       # What a screen reader says for the photo. Use your name here too.
-about:
-  template: jolla            # Centered: photo, name, bio, buttons. Three things to try:
-                             #   - template: trestles   (photo on the left, bio on the right)
-                             #   - template: solana     (bio on the left, photo on the right)
-                             #   - image-shape: rectangle   (or rounded; on its own line at this indent)
-                             # All home-page options, with pictures:
-                             # https://quarto.org/docs/websites/website-about.html
-  links:                     # The buttons under the bio. Try adding github, linkedin,
-    - icon: envelope         # or twitter-x. Every icon name: https://icons.getbootstrap.com/
-      text: Email
-      href: mailto:ss25bq@fsu.edu
-    - icon: file-earmark-pdf
-      text: CV
-      href: /file/cv.pdf
-    #- icon: google
-  #   text: Google Scholar
-  #    href: https://scholar.google.com/citations?user=XXXXXXXXXXXX
-    - icon: person-vcard     # There is no ORCID icon in the set; use an ID card.
-      text: ORCID
-      href: https://orcid.org/0009-0004-5400-4688
+pagetitle: "Seng Yee Sin"
+description-meta: "PhD student in Political Science at Florida State University studying comparative politics, historical political economy, and political violence."
 ---
 
-```{=html}
-<!-- Everything below the front matter is the bio. Keep this short; two or three short paragraphs
-     is plenty. Say who you are, what you study, and what you teach. Maybe add one sentence on your dissertation. -->
-```
+::: {.hero}
+::: {.hero-photo}
+![](/media/profile.jpg){fig-alt="Portrait of Seng Yee Sin"}
+:::
 
-I am a Ph.D. student in the Department of Political Science at Florida State University (FSU). I study Comparative politics, historical political economy and political violence, with a region focus in Malaysia and Indonesia. I focus on how historical legacy shapes contemporary violence, inter-group relation and other governance outcome. 
+::: {.hero-copy}
+[Seng Yee Sin]{.hero-name}
+
+::: {.hero-affil}
+PhD Student · Department of Political Science  
+Florida State University
+:::
+
+::: {.hero-lede}
+I study how colonial institutions distribute power across ethnic groups, and why those arrangements keep producing violence long after the colonizers leave. My project traces this perpetuate cycle of violence through Indonesia, from the massacres of 1740, 1965, to 1998.
+:::
+
+::: {.hero-links}
+<a href="mailto:ss25bq@fsu.edu"><i class="bi bi-envelope" aria-hidden="true"></i> Email</a>
+<a href="/file/cv.pdf"><i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> CV</a>
+<a href="https://orcid.org/0009-0004-5400-4688"><i class="bi bi-person-vcard" aria-hidden="true"></i> ORCID</a>
+<a href="https://www.linkedin.com/in/sin-seng-yee-35286717/a/"><i class="bi bi-linkedin" aria-hidden="true"></i> LinkedIn</a>
+:::
+:::
+:::
+
+## About
+
+I am a Ph.D. student in the Department of Political Science at Florida State University (FSU). I study comparative politics, historical political economy and political violence, with a region focus in Indonesia and Malaysia. I focus on how historical institution legacy shapes contemporary violence, inter-group relation and other governance outcomes. 
 
 Before starting my Ph.D. at FSU, I earned a B.A. and M.A. in political science from National Taiwan University (NTU) in 2024 and 2022.
